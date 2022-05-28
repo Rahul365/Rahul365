@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Rahul Dhiman
-- 👀 I’m currently working at Amazon as an SDE-I.
-
+- 👀 I’m currently working at Amazon as an SDE-I using my knowledge to solve customer problems following best software development practices.
